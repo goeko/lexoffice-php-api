@@ -1,4 +1,4 @@
-# lexoffice-php-api
+# GFX: lexoffice-php-api
 PHP Client für [lexoffice](https://www.awin1.com/awclick.php?gid=368497&mid=13787&awinaffid=635216&linkid=2537216&clickref=) REST API
 
 Wir lieben Automatisierung und die nahtlose Verzahnung von Systemen!
